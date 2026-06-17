@@ -1,0 +1,12 @@
+{
+  "name": "vanguard-defence-academy-demo",
+  "version": "1.0.0",
+  "description": "Full-stack demo landing page for a defence coaching academy — Express backend + vanilla JS frontend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
